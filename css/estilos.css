@@ -319,7 +319,9 @@ figure {
 .social-link.instagram {
     background-image: url(../images/instagram.svg);
 } */
-
+.form-email{
+    margin-left: 10px;
+}
 .form-email input {
     border-color: rgb(128, 21, 21);
     padding: 10px 20px 10px 25px;
