@@ -321,6 +321,7 @@ figure {
 } */
 .form-email{
     margin-left: 10px;
+    margin-bottom: 10px;
 }
 .form-email input {
     border-color: rgb(128, 21, 21);
