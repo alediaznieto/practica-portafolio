@@ -1,0 +1,32 @@
+[33mcommit 39d982e3768a9cad311ea09c0cbbf06d1c2b62ac[m[33m ([m[1;36mHEAD -> [m[1;32mhero[m[33m)[m
+Author: Alejandra Diaz Nieto <alediaznieto@gmail.com>
+Date:   Thu Oct 31 14:56:52 2019 -0500
+
+    cambio de texto en el hero y de los estilos css de los colores del titulo hero
+
+[1mdiff --git a/css/estilos.css b/css/estilos.css[m
+[1mindex bdb1009..f07ebb4 100644[m
+[1m--- a/css/estilos.css[m
+[1m+++ b/css/estilos.css[m
+[36m@@ -101,7 +101,7 @@[m [mh1 {[m
+ }[m
+ [m
+ h1 strong {[m
+[31m-    color: #E52323;[m
+[32m+[m[32m    color: rgb(226, 241, 11);[m
+ }[m
+ [m
+ h2 {[m
+[1mdiff --git a/index.html b/index.html[m
+[1mindex c37df12..df2a79c 100644[m
+[1m--- a/index.html[m
+[1m+++ b/index.html[m
+[36m@@ -38,7 +38,7 @@[m
+     </header>[m
+     <section class="hero">[m
+         <div class="container">[m
+[31m-            <h1>Hola Soy <strong>Ale Diaz Nieto</strong> <br /> muy lenta para programar <br /> pero <strong>estoy[m
+[32m+[m[32m            <h1>Hola Soy <strong>ADN</strong> <br /> muy lenta para programar <br /> pero <strong>estoy[m
+                     aprendiendo</strong>[m
+             </h1>[m
+             <img class="hero-image" src="images/hero.jpg" width="500" height="300" alt="imagen de portada">[m
